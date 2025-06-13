@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Haruki Kawase
 
 🎓 Systems Science Undergraduate at the University of Osaka
-🌍 Founder of Global Kansai | Web3 & Robotics Enthusiast
+🌍 Founder of Global Kansai | Software Engineering & Robotics Enthusiast
 
 ---
 
