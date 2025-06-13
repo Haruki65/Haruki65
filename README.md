@@ -20,7 +20,7 @@ I’m currently open to:
 ### 💻 Technical Skills
 
 - **Languages**: MATLAB, Python, JavaScript, TypeScript, C, Solidity
-- **Frameworks & Tools**: Next.js, Scaffold-ETH 2, Hardhat, Web3Auth  
+- **Frameworks & Tools**: Next.js, Scaffold-ETH 2, Web3Auth  
 - **Robotics**: control theory, multi-agent systems
 - **Other**: Git, Prisma, Tailwind CSS
 
