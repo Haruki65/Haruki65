@@ -14,8 +14,6 @@ In addition to robotics, I’m deeply interested in **Software engineering**, **
 
 I’m currently open to:
 - 🌐 Web Developer / Control Engineer roles
-- 🔗 Blockchain Developer or Internships (including Winter Intern positions)
-- 🤝 Non-profit tech collaborations
 
 ---
 
@@ -30,7 +28,7 @@ I’m currently open to:
 
 ### 🌍 Highlights
 
-- 🤝 Exchange student at **University of California, Merced** in 2024
+- 🤝 Exchange student at **University of California, Merced** in 2024 (GPA 4.0)
 - 🌐 Founder of **Global Kansai**, promoting global thinking in Japan (https://www.instagram.com/global.kansai/)
 - 🤖 Conducting graduation research on **multi-robot systems**
 - ✍️ Languages: Japanese (native), English (C1)
@@ -40,6 +38,5 @@ I’m currently open to:
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/haruki-kawase-7a7248306/)
-- 🌐 GitHub: [github.com/haruki-kawase](https://github.com/haruki-kawase)
 
 Thanks for visiting my profile! I'm always open to collaboration, internships, and meaningful conversations on tech, education, and global exchange. 
