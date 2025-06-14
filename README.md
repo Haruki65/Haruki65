@@ -10,7 +10,7 @@
 I'm a senior undergraduate student at the University of Osaka majoring in Systems Science.  
 Currently, I belong to the Control Information Systems Lab led by Prof. Sakurama, where I’m researching **multi-robot team coordination**.
 
-In addition to robotics, I’m deeply interested in **Software engineering**, **control engineering**, and **global community-building**. As the founder of *Global Kansai*, I lead cross-cultural initiatives to connect students in the Kansai region with the world.
+In addition to robotics, I’m deeply interested in **Software engineering**, **control engineering**, and **global community-building**. As the founder of *Global Kansai*, I lead initiatives accelerate information exchange on study abroad programs and scholarships among students in the Kansai region.
 
 I’m currently open to:
 - 🌐 Web Developer / Control Engineer roles
